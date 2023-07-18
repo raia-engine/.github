@@ -1,1 +1,3 @@
-# Profile
+# RaiaEngine organisation repositories
+
+RaiaEngineの各機能は共有ライブラリに分割して開発されています。このOrganisationには、それらのプロジェクトをリポジトリに分けて管理しています。
