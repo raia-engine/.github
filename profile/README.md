@@ -1,4 +1,4 @@
-# RaiaEngine organisation repositories
+# RaiaEngine開発リポジトリ
 
 RaiaEngineの各機能は共有ライブラリに分割して開発されています。このOrganisationには、それらのプロジェクトをリポジトリに分けて管理しています。
 
