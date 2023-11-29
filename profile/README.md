@@ -2,6 +2,10 @@
 
 RaiaEngineドキュメントサイトの管理・公開のためのリポジトリです。
 
-## ドキュメントサイト
+## ドキュメントサイトの公開URL
 
 https://raia-engine.github.io
+
+## 開発リポジトリ
+
+https://github.com/dolphilia/raia
